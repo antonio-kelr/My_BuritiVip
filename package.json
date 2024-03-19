@@ -2,7 +2,7 @@
   "name": "deploy",
   "private": true,
   "version": "0.0.0",
-  "homepage": "./",
+  "homepage": "https://antonio.github.io/My_BuritiVip/",
   "type": "module",
   "scripts": {
     "dev": "vite",
